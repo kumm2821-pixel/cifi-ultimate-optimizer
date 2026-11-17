@@ -1,5 +1,4 @@
-# CIFI Ultimate Optimizer v0.4.5
-
+# CIFI Ultimate Optimizer v0.4
 A local-first CIFI calculator for Mod Tree, Diamond/Token upgrade, and Ship Install recommendations, built on shared progression inputs and Weight presets.
 
 입력값과 프리셋은 각 브라우저에만 저장되며 이 저장소에는 포함하지 않는다.
